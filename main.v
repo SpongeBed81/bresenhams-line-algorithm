@@ -16,7 +16,7 @@ fn main() {
 		}
 		table += "\n"
 	}
- table = bresenham(inps, table)
+        table = bresenham(inps, table)
 	println(table)
 }
 
@@ -33,7 +33,7 @@ fn put(x int, y int, board string) string {
 fn bresenham(inp []int, boardz string) string {
 	mut board := boardz.clone()
 	x1 := inp[0]
- y1 := inp[1]
+        y1 := inp[1]
 	x2 := inp[2]
 	y2 := inp[3]
 	mut m_new := 2 * (y2	- y1)
