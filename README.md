@@ -1,4 +1,4 @@
-# Bresenham's line algorithm implemetation in Vlang
+# Bresenham's line algorithm implementation in Vlang
 
 ## Note
 I did this project for learning the basics of Vlang so I can't say it is perfect. You can expect my code will be shitcode. Sorry about that 😔
